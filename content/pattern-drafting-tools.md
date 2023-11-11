@@ -48,3 +48,9 @@ There is a lot of basic arithmetic and algebra in pattern making. A basic (non-s
 ## Grid paper notebook
 
 I use a spiral-bound school notebook with a dot grid; nothing little and fancy, because I draw out mini versions of the pattern before I break out the tracing paper, and usually I work through all the construction steps before I start tracing too. So I go through a lot of notebooks. I find that this degree of pre-thinking the pattern helps immensely with the finished piece. I like to dot grid more than a regular grid because it makes drawing the pattern mockups easier.
+
+## T-pins and a temporary surface for your table to stick the pins into
+
+T-pins are long and strong straight pins with the non-pointy end bent into a T shaped terminus. I'm not sure what they're used for in the real world - maybe pinning papers to a corkboard? - but there is a phase of pattern drafting called `pivoting` where multiple layers of tracing paper are pinned together at a specific point and different layers of paper are rotated around that pivot point in order to create a dart or new pattern piece.
+
+A professional pattern table will have a top that accepts pins for this purpose, but amateurs are probably using the kitchen table or a drawing desk. Self-healing cutting mats don't really work because you can't sink a pin into them. I've created a table cover that I use just for this purpose with a few layers of cardboard from old packages covered with canvas. I've also used foamcore board covered with paper to good effect.
