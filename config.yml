@@ -1,0 +1,67 @@
+baseURL: https://fibre.monamaret.com/
+languageCode: en-us
+title: Fibre 
+theme: index
+pygmentsUseClasses: true
+enableInlineShortcodes: true
+Copyright: © Mona Maret. All Rights Reserved 
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  showDescriptioninHome: true
+  # hideAllTagsinHome: true
+  # searchBoxPlaceholder: "Type here to search..."
+  titleIcon: cut.svg 
+  headers:
+    key: Title
+    value: Tags
+    # value: Description
+
+permalinks:
+  tags: "@:slug"
+
+taxonomies:
+  tag: "tags"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # for search
+
+assets:
+  disableHLJS: true
+  favicon: favicon.ico
+  favicon16x16: favicon-16x16.png
+  favicon32x32: favicon-32x32.png
+  apple_touch_icon: apple-touch-icon.png
+  safari_pinned_tab: favicon.svg
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

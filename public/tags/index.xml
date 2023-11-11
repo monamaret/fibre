@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fibre</title>
+    <link>https://fibre.monamaret.com/tags/</link>
+    <description>Recent content in Tags on Fibre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Mona Maret. All Rights Reserved</copyright><atom:link href="https://fibre.monamaret.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pattern drafting</title>
+      <link>https://fibre.monamaret.com/@pattern-drafting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fibre.monamaret.com/@pattern-drafting/</guid>
+      <description>Sewing patterns can be made in two main ways: pages with this tag are focused on those made using drafting methods from body measurements, as opposed to draping a body form with a sacrifical piece of fabric that is cut and marked.</description>
+    </item>
+    
+  </channel>
+</rss>
