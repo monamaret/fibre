@@ -1,6 +1,6 @@
 baseURL: https://fibre.monamaret.com/
 languageCode: en-us
-title: Fibre 
+title: Fibre
 theme: index
 pygmentsUseClasses: true
 enableInlineShortcodes: true

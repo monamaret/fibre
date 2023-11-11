@@ -1,8 +1,8 @@
 :root {
   --primary: rgb(6, 31, 26);
-  --secondary: rgb(54, 23, 141);
-  --secondary-hover: rgba(32, 91, 144, 0.1);
-  --background: rgba(245, 247, 231, 0.842);
+  --secondary: rgb(27, 81, 87);
+  --secondary-hover: rgba(32, 144, 138, 0.1);
+  --background: rgba(248, 240, 248, 0.842);
   --max-width: 50rem;
 }
 
